@@ -24,4 +24,4 @@ help    | New Transaction | Menu, Toolbar | ![](SVGs/help.svg)
 ### Navigation
 Name | Meaning |Usage | Icon
 --- | --- | --- | ---
-???? | Reports | Navigation | ![](SVGs/report.svg)
+pie_chart | Reports | Navigation | ![](SVGs/pie_chart.svg)
