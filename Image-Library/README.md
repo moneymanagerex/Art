@@ -43,4 +43,5 @@ ENCRYPT_DB | Convert Encrypted DB | ![](SVGs/lock.svg)
 CLIP | Attachments | ![](SVGs/clip.svg)
 COMMUNITY | Help - Community | ![](SVGs/users.svg)
 SAVE | Save | ![](SVGs/save.svg)
-
+??? | Online update | ![](SVGs/refresh.svg)
+RUN | ??? | ![](SVGs/play.svg)
