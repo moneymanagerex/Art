@@ -34,3 +34,10 @@ pie_chart | Reports | ![](SVGs/pie_chart.svg)
 RECURRING | Recurring Transactions | ![](SVGs/recurring.svg) ![](SVGs/clock.svg)
 STOCKS | Stock Portfolios | ![](SVGs/stocks.svg) ![](SVGs/portfolio.svg)
 BUDGET | Budget | ![](SVGs/budget.svg)
+
+### Others
+Name | Meaning | Icon
+--- | --- | ---
+ENCRYPT_DB | Convert Encrypted DB | ![](SVGs/lock.svg)
+CLIP | Attachments | ![](SVGs/clip.svg)
+
