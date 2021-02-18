@@ -5,9 +5,9 @@ Original icons here: https://www.svgrepo.com/
 ### Tool Bar
 Name | Meaning |Usage | Icon
 --- | --- | --- | ---
-new_db | New Database | Menu, Toolbar | ![](SVGs/new_db.svg)
+new_db | New Database | Menu, Toolbar | ![](SVGs/new_db.svg) ![](SVGs/db.svg) 
 open    | Open Database | Menu, Toolbar | ![](SVGs/open.svg)
-new_acc    | New Account | Menu, Toolbar | ![](SVGs/new_acc.svg)
+new_acc    | New Account | Menu, Toolbar | ![](SVGs/new_acc.svg) ![](SVGs/new_db.svg)
 home    | Home | Menu, Toolbar | ![](SVGs/home.svg)
 category    | Organize Categories | Menu, Toolbar | ![](SVGs/category.svg)
 payee    | Organize Payees | Menu, Toolbar | ![](SVGs/payee.svg)
