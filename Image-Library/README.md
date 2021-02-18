@@ -1,4 +1,5 @@
-# Icons
+## Icons
+### Tool Bar
 Name | Meaning |Usage | Icon
 --- | --- | --- | ---
 new_db | New Database | Menu, Toolbar | ![](SVGs/new_db.svg)
@@ -19,3 +20,8 @@ fullscreen    | Toggle Fullscreen | Menu, Toolbar | ![](SVGs/fullscreen.svg)
 print    | Print | Menu, Toolbar | ![](SVGs/print.svg)
 about    | About | Menu, Toolbar | ![](SVGs/about.svg)
 help    | New Transaction | Menu, Toolbar | ![](SVGs/help.svg)
+
+### Navigation
+Name | Meaning |Usage | Icon
+--- | --- | --- | ---
+??? | Reports | Navigation | ![](SVGs/duotone-chart-svgrepo-com.svg)
