@@ -1,4 +1,7 @@
 ## Icons
+
+Original icons here: https://www.svgrepo.com/
+
 ### Tool Bar
 Name | Meaning |Usage | Icon
 --- | --- | --- | ---
