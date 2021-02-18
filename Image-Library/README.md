@@ -29,7 +29,7 @@ Name | Meaning | Icon
 --- | --- | ---
 ALLTRANSACTIONS | All Transactions | ![](SVGs/all.svg)
 CASH | Cash account | ![](SVGs/wallet.svg)
-ASSET | Assets | ![](SVGs/assets.svg)
+ASSET | Assets | ![](SVGs/assets.svg) ![](SVGs/box.svg)
 pie_chart | Reports | ![](SVGs/pie_chart.svg)
 RECURRING | Recurring Transactions | ![](SVGs/recurring.svg) ![](SVGs/clock.svg)
 STOCKS | Stock Portfolios | ![](SVGs/stocks.svg) ![](SVGs/portfolio.svg)
