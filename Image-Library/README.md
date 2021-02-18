@@ -5,7 +5,7 @@ Original icons here: https://www.svgrepo.com/
 ### Tool Bar
 Name | Meaning |Usage | Icon
 --- | --- | --- | ---
-new_db | New Database | Menu, Toolbar | ![](SVGs/new_db.svg) ![](SVGs/db2.svg) 
+new_db | New Database | Menu, Toolbar | ![](SVGs/new_db.svg) ![](SVGs/db.svg) 
 open    | Open Database | Menu, Toolbar | ![](SVGs/open.svg) ![](SVGs/open2.svg)
 new_acc    | New Account | Menu, Toolbar | ![](SVGs/new_acc.svg) ![](SVGs/new_db.svg)
 home    | Home | Menu, Toolbar | ![](SVGs/home.svg)
