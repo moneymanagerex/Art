@@ -25,8 +25,8 @@ about    | About | Menu, Toolbar | ![](SVGs/about.svg)
 help    | New Transaction | Menu, Toolbar | ![](SVGs/help.svg)
 
 ### Navigation
-Name | Meaning |Usage | Icon
---- | --- | --- | ---
+Name | Meaning | Icon
+--- | --- | ---
 ALLTRANSACTIONS | All Transactions | ![](SVGs/all.svg)
 ASSET | Assets | ![](SVGs/assets.svg)
 pie_chart | Reports | ![](SVGs/pie_chart.svg)
