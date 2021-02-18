@@ -42,4 +42,5 @@ Name | Meaning | Icon
 ENCRYPT_DB | Convert Encrypted DB | ![](SVGs/lock.svg)
 CLIP | Attachments | ![](SVGs/clip.svg)
 COMMUNITY | Help - Community | ![](SVGs/users.svg)
+SAVE | Save | ![](SVGs/save.svg)
 
