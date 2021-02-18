@@ -6,7 +6,7 @@ Original icons here: https://www.svgrepo.com/
 Name | Meaning |Usage | Icon
 --- | --- | --- | ---
 new_db | New Database | Menu, Toolbar | ![](SVGs/new_db.svg) ![](SVGs/db.svg) 
-open    | Open Database | Menu, Toolbar | ![](SVGs/open.svg)
+open    | Open Database | Menu, Toolbar | ![](SVGs/open.svg) ![](SVGs/open2.svg)
 new_acc    | New Account | Menu, Toolbar | ![](SVGs/new_acc.svg) ![](SVGs/new_db.svg)
 home    | Home | Menu, Toolbar | ![](SVGs/home.svg)
 category    | Organize Categories | Menu, Toolbar | ![](SVGs/category.svg)
