@@ -27,7 +27,8 @@ help    | New Transaction | Menu, Toolbar | ![](SVGs/help.svg)
 ### Navigation
 Name | Meaning |Usage | Icon
 --- | --- | --- | ---
-ALLTRANSACTIONS | All Transactions | Navigation | ![](SVGs/all.svg)
-ASSET | Assets | Navigation | ![](SVGs/assets.svg)
-pie_chart | Reports | Navigation | ![](SVGs/pie_chart.svg)
+ALLTRANSACTIONS | All Transactions | ![](SVGs/all.svg)
+ASSET | Assets | ![](SVGs/assets.svg)
+pie_chart | Reports | ![](SVGs/pie_chart.svg)
 RECURRING | Recurring Transactions | ![](SVGs/recurring.svg)
+STOCKS | Stocks | ![](SVGs/stocks.svg)
