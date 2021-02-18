@@ -1,48 +1,83 @@
-## Icons
+# Icons
 
 Original icons here: https://www.svgrepo.com/
 
-### Tool Bar
-Name | Meaning |Usage | Icon
---- | --- | --- | ---
-new_db | New Database | Menu, Toolbar | ![](SVGs/new_db.svg)  ![](SVGs/db.svg) ![](SVGs/db2.svg) 
-open    | Open Database | Menu, Toolbar | ![](SVGs/open.svg) ![](SVGs/open2.svg)
-new_acc    | New Account | Menu, Toolbar | ![](SVGs/new_acc.svg) ![](SVGs/new_db.svg)
-home    | Home | Menu, Toolbar | ![](SVGs/home.svg)
-category    | Organize Categories | Menu, Toolbar | ![](SVGs/category.svg)
-payee    | Organize Payees | Menu, Toolbar | ![](SVGs/payee.svg)
-currency    | Organize Currencies | Menu, Toolbar | ![](SVGs/currency.svg)
-filter    | Transaction Report Filter | Menu, Toolbar | ![](SVGs/filter.svg)
-grm    | General Reports Manager | Menu, Toolbar | ![](SVGs/grm.svg)
-options    | Options/Settings| Menu, Toolbar | ![](SVGs/options.svg)
-new_trx    | New Transaction | Menu, Toolbar | ![](SVGs/new_trx.svg)
-news    | Open News| Menu, Toolbar | ![](SVGs/news.svg) ![](SVGs/news2.svg)
-nnews    | New News<br>***Needs update**  | Menu, Toolbar | ![](SVGs/news.svg)
-currates    | Download Currency Rates | Menu, Toolbar | ![](SVGs/currates.svg)  ![](SVGs/refresh.svg)
-fullscreen    | Toggle Fullscreen | Menu, Toolbar | ![](SVGs/fullscreen.svg) ![](SVGs/fullscreen2.svg)
-print    | Print | Menu, Toolbar | ![](SVGs/print.svg)
-about    | About | Menu, Toolbar | ![](SVGs/about.svg)
-help    | New Transaction | Menu, Toolbar | ![](SVGs/help.svg)
+## Tool Bar
 
-### Navigation
-Name | Meaning | Icon
---- | --- | ---
+enum | Meaning  | Icon
+:-- | :--  | :--
+NEW_DB | New Database | ![](SVGs/new_db.svg)  ![](SVGs/db.svg) ![](SVGs/db2.svg) 
+OPEN    | Open Database | ![](SVGs/open.svg) ![](SVGs/open2.svg)
+NEW_ACC    | New Account | ![](SVGs/new_acc.svg) ![](SVGs/new_db.svg)
+HOME    | Home | ![](SVGs/home.svg)
+CATEGORY    | Organize Categories | ![](SVGs/category.svg)
+PAYEE    | Organize Payees | ![](SVGs/payee.svg)
+CURR    | Organize Currencies | ![](SVGs/currency.svg)
+FILTER    | Transaction Report Filter | ![](SVGs/filter.svg)
+GRM    | General Reports Manager | ![](SVGs/grm.svg)
+OPTIONS    | Options/Settings| ![](SVGs/options.svg)
+NEW_TRX    | New Transaction | ![](SVGs/new_trx.svg)
+NEWS    | Open News| ![](SVGs/news.svg) ![](SVGs/news2.svg)
+NEW_NEWS    | New News<br>***Needs update**  | ![](SVGs/news.svg)
+CURRATES    | Download Currency Rates | ![](SVGs/currates.svg)  ![](SVGs/refresh.svg)
+FULLSCREEN    | Toggle Fullscreen | ![](SVGs/fullscreen.svg) ![](SVGs/fullscreen2.svg)
+PRINT    | Print | ![](SVGs/print.svg)
+ABOUT    | About | ![](SVGs/about.svg)
+HELP    | New Transaction | ![](SVGs/help.svg)
+
+## Menus
+
+enum | Meaning | Icon
+:-- | :--  | :--
+NEW_DB | File > New Database | See Toolbar
+OPEN    | File > Open Database | See Toolbar
+SAVEAS | File > Save As  | ![](SVGs/save.svg)
+CLEARLIST | File > Clear Recent Files |
+HOME | Accounts > Account List | See Toolbar
+NEW_ACC | Accounts > New Account| See Toolbar
+EDIT_ACC | Accounts > Edit Account| 
+REALLOCATE_ACC | Accounts > Reallocate Account| 
+DELETE_ACC | Accounts > Delete Account| 
+
+## Navigation
+
+enum | Meaning | Icon
+:-- | :--  | :--
+HOME  |  | See Toolbar
 ALLTRANSACTIONS | All Transactions | ![](SVGs/all.svg)
-CASH | Cash account | ![](SVGs/wallet.svg)
-CC | Credit Card Accounts | ![](SVGs/creditcard.svg)
+SAVINGS_ACC_NORMAL | Checking Accounts | 
+SAVINGS_ACC_FAVOURITE | Checking Accounts |
+SAVINGS_ACC_CLOSED | Checking Accounts | 
+CARD_ACC_NORMAL | Credit Card Accounts | ![](SVGs/creditcard.svg)
+CARD_ACC_FAVOURITE | Credit Card Accounts | 
+CARD_ACC_CLOSED| Credit Card Accounts | 
+CASH_ACC_NORMAL | Cash accounts | ![](SVGs/wallet.svg)
+CASH_ACC_FAVOURITE | Cash accounts | 
+CASH_ACC_CLOSED | Cash accounts | 
+LOAN_ACC_NORMAL | Loan accounts | 
+LOAN_ACC_FAVOURITE | Loan accounts | 
+LOAN_ACC_CLOSED | Term accounts | 
+TERM_ACC_NORMAL | Term accounts | 
+TERM_ACC_FAVOURITE | Term accounts | |
+TERM_ACC_CLOSED | Term accounts | |
+STOCK_ACC_NORMAL | Stock Portfolios | ![](SVGs/stocks.svg) ![](SVGs/portfolio.svg)
+STOCK_ACC_FAVOURITE | Stock Portfolios | 
+STOCK_ACC_CLOSED | Stock Portfolios | 
 ASSET | Assets | ![](SVGs/assets.svg) ![](SVGs/box.svg)
-pie_chart | Reports | ![](SVGs/pie_chart.svg)
 RECURRING | Recurring Transactions | ![](SVGs/recurring.svg) ![](SVGs/clock.svg)
-STOCKS | Stock Portfolios | ![](SVGs/stocks.svg) ![](SVGs/portfolio.svg)
-BUDGET | Budget | ![](SVGs/budget.svg)
+BUDGET | Budgets | ![](SVGs/budget.svg)
+PIE_CHART | Reports | ![](SVGs/pie_chart.svg)
+FILTER | Transaction Report Filter | See Toolbar
+GRM | GRM Reports | See Toolbar
+HELP | Help | See Toolbar
 
-### Others
-Name | Meaning | Icon
---- | --- | ---
+## Others
+
+enum | Meaning | Icon
+:-- | :--  | :--
 ENCRYPT_DB | Convert Encrypted DB | ![](SVGs/lock.svg) ![](SVGs/lock-on.svg)
 CLIP | Attachments | ![](SVGs/clip.svg)
-COMMUNITY | Help - Community | ![](SVGs/users.svg)
-SAVE | Save | ![](SVGs/save.svg)
+community | Help - Community | ![](SVGs/users.svg)
 ??? | Online update | ![](SVGs/refresh.svg)
 RUN | ??? | ![](SVGs/play.svg)
 CLEAR | ??? | ![](SVGs/clean2.svg) ![](SVGs/clean.svg)
