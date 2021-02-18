@@ -24,4 +24,4 @@ help    | New Transaction | Menu, Toolbar | ![](SVGs/help.svg)
 ### Navigation
 Name | Meaning |Usage | Icon
 --- | --- | --- | ---
-??? | Reports | Navigation | ![](SVGs/duotone-chart-svgrepo-com.svg)
+???? | Reports | Navigation | ![](SVGs/report.svg)
