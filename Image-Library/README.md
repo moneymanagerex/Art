@@ -28,6 +28,7 @@ help    | New Transaction | Menu, Toolbar | ![](SVGs/help.svg)
 Name | Meaning | Icon
 --- | --- | ---
 ALLTRANSACTIONS | All Transactions | ![](SVGs/all.svg)
+CASH | Cash account | ![](SVGs/wallet.svg)
 ASSET | Assets | ![](SVGs/assets.svg)
 pie_chart | Reports | ![](SVGs/pie_chart.svg)
 RECURRING | Recurring Transactions | ![](SVGs/recurring.svg)
