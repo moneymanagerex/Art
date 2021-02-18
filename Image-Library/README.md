@@ -30,3 +30,4 @@ Name | Meaning |Usage | Icon
 ALLTRANSACTIONS | All Transactions | Navigation | ![](SVGs/all.svg)
 ASSET | Assets | Navigation | ![](SVGs/assets.svg)
 pie_chart | Reports | Navigation | ![](SVGs/pie_chart.svg)
+RECURRING | Recurring Transactions | ![](SVGs/recurring.svg)
