@@ -14,7 +14,7 @@ CATEGORY    | Organize Categories | ![](SVGs/category.svg) |
 PAYEE    | Organize Payees | ![](SVGs/payee.svg) |
 CURR    | Organize Currencies | ![](SVGs/currency.svg) |
 FILTER    | Transaction Report Filter | ![](SVGs/filter.svg) |
-GRM    | General Reports Manager | ![](SVGs/grm.svg) |
+GRM    | General Reports Manager |  | ![](SVGs/grm.svg)
 OPTIONS    | Options/Settings| ![](SVGs/options.svg) |
 NEW_TRX    | New Transaction | ![](SVGs/new_trx.svg) |
 NEWS    | Open News| ![](SVGs/news2.svg) | ![](SVGs/news.svg)
