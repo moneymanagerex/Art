@@ -108,7 +108,7 @@ enum | Meaning | Icon
 ART |  |
 AUTO |  | 
 CAR | Asset type | ![](SVGs/car.svg)
-CASH |  |
+CASH |  | ![](SVGs/cash.svg)
 CLEAR |  | ![](SVGs/clean2.svg) ![](SVGs/clean.svg)
 CLIP | Attachments | ![](SVGs/clip.svg)
 CROWID |  |
