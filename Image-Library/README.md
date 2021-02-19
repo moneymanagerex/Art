@@ -115,7 +115,7 @@ CAR | Asset type | ![](SVGs/car.svg) |
 CASH |  | ![](SVGs/cash.svg) |
 CLEAR |  |  | ![](SVGs/clean2.svg) ![](SVGs/clean.svg)
 CLIP | Attachments | ![](SVGs/clip.svg) |
-CROWID |  | |
+CROWID |  | ![](SVGs/crowdin.svg) |
 DOWNARROW | | ![](SVGs/arrow-down.svg) |
 DUPLICATE_STAT | | ![](SVGs/duplicate.svg) |
 EDIT_ACC | | |
