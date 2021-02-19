@@ -123,7 +123,7 @@ EXIT | | ![](SVGs/power.svg) | ![](SVGs/logout.svg)
 FOLLOW_UP | | ![](SVGs/followup.svg) |
 LEFTARROWSIMPLE | | ![](SVGs/leftarrow.svg) |
 RIGHTARROWSIMPLE | | ![](SVGs/rightarrow.svg) |
-HOUSEHOLD_OBJ | | |
+HOUSEHOLD_OBJ | | ![](SVGs/household.svg) |
 IMPORT | | |
 JEWELLERY | | ![](SVGs/diamond.svg) |
 LED_GREEN | | |
