@@ -116,7 +116,7 @@ CASH |  | ![](SVGs/cash.svg) |
 CLEAR |  | ![](SVGs/brush.svg) | ![](SVGs/clean2.svg) ![](SVGs/clean.svg)
 CLIP | Attachments | ![](SVGs/clip.svg) |
 CROWID |  | ![](SVGs/crowdin.svg) |
-DOWNARROW | | ![](SVGs/arrow-down.svg) |
+DOWNARROW | |  | ![](SVGs/arrow-down.svg)
 DUPLICATE_STAT | | ![](SVGs/duplicate.svg) |
 EDIT_ACC | | |
 EXIT | | ![](SVGs/power.svg) | ![](SVGs/logout.svg)
@@ -130,9 +130,9 @@ LED_GREEN | | |
 LED_OFF | | |
 LED_RED | | |
 LED_YELLOW | | |
-LOSS | | |
+LOSS | | ![](SVGs/arrow-down.svg) |
 OTHER | | | ![](SVGs/grid.svg)
-PROFIT | | |
+PROFIT | | | ![](SVGs/arrow-up.svg)
 PROPERTY | | ![](SVGs/property.svg) |
 RECONCILED | | ![](SVGs/check.svg) |
 RIGHTARROW | | ![](SVGs/filter.svg) |
