@@ -124,7 +124,7 @@ FOLLOW_UP | | ![](SVGs/followup.svg) |
 LEFTARROWSIMPLE | | ![](SVGs/leftarrow.svg) |
 RIGHTARROWSIMPLE | | ![](SVGs/rightarrow.svg) |
 HOUSEHOLD_OBJ | | ![](SVGs/household.svg) |
-IMPORT | | |
+IMPORT | | ![](SVGs/download.svg) |
 JEWELLERY | | ![](SVGs/diamond.svg) |
 LED_GREEN | | |
 LED_OFF | | |
