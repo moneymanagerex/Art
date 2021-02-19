@@ -88,7 +88,7 @@ FULLSCREEN | View > Toggle Fullscreen | See Toolbar
 LANG | View > Switch Language |
 HELP | Help > Help | See Toolbar
 COMMUNITY | Help > Community > Donate via Paypal | ![](SVGs/users.svg)
-FORUM | Help > Community > Forum  | 
+FORUM | Help > Community > Forum  | ![](SVGs/forum.svg)
 GITHUB | Help > Community > Github  | 
 SLACK | Help > Community > Slack  | 
 FACEBOOK | Help > Community > Facebook | ![](SVGs/facebook.svg)
