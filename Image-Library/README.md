@@ -134,9 +134,9 @@ LOSS | | ![](SVGs/arrow-down.svg) |
 OTHER | | | ![](SVGs/grid.svg)
 PROFIT | | ![](SVGs/arrow-up.svg) | 
 PROPERTY | | ![](SVGs/property.svg) |
-RECONCILED | | | ![](SVGs/filter.svg)
-RIGHTARROW | | | ![](SVGs/check.svg) 
-RIGHTARROW_ACTIVE | | ![](SVGs/filter_active.svg) |
+RECONCILED | | ![](SVGs/check.svg) | 
+RIGHTARROW | | |  ![](SVGs/filter_active.svg)
+RIGHTARROW_ACTIVE | |  | ![](SVGs/filter.svg)
 RUN |  | ![](SVGs/play.svg) |
 SAVE | | ![](SVGs/save.svg) |
 TRXNUM | | ![](SVGs/next.svg) |
