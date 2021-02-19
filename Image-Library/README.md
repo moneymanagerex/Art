@@ -106,8 +106,8 @@ UPDATE | Help > Check For Updates | ![](SVGs/refresh.svg)
 enum | Meaning | Icon
 :-- | :--  | :--
 ART |  |
-AUTO |  |
-CAR |  |
+AUTO |  | 
+CAR | Asset type | ![](SVGs/car.svg)
 CASH |  |
 CLEAR |  | ![](SVGs/clean2.svg) ![](SVGs/clean.svg)
 CLIP | Attachments | ![](SVGs/clip.svg)
