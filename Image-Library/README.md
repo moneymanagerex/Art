@@ -119,7 +119,7 @@ CROWID |  | |
 DOWNARROW | | ![](SVGs/arrow-down.svg) |
 DUPLICATE_STAT | | ![](SVGs/duplicate.svg) |
 EDIT_ACC | | |
-EXIT | | |
+EXIT | | ![](SVGs/power.svg) | ![](SVGs/logout.svg)
 FOLLOW_UP | | ![](SVGs/followup.svg) |
 LEFTARROWSIMPLE | | |
 RIGHTARROWSIMPLE | | |
