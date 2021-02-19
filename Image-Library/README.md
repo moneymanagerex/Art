@@ -107,42 +107,42 @@ UPDATE | Help > Check For Updates | ![](SVGs/refresh.svg)
 
 ## Others
 
-enum | Meaning | Icon
-:-- | :--  | :--
-ART |  |
-AUTO |  | 
-CAR | Asset type | ![](SVGs/car.svg)
-CASH |  | ![](SVGs/cash.svg)
-CLEAR |  | ![](SVGs/clean2.svg) ![](SVGs/clean.svg)
-CLIP | Attachments | ![](SVGs/clip.svg)
-CROWID |  |
-DOWNARROW | | ![](SVGs/arrow-down.svg)
-DUPLICATE_STAT | | ![](SVGs/duplicate.svg)
-EDIT_ACC | |
-EXIT | |
-FOLLOW_UP | | ![](SVGs/followup.svg)
-LEFTARROWSIMPLE | |
-RIGHTARROWSIMPLE | |
-HOUSEHOLD_OBJ | |
-IMPORT | |
-JEWELLERY | | ![](SVGs/diamond.svg)
-LED_GREEN | |
-LED_OFF | |
-LED_RED | |
-LED_YELLOW | |
-LOSS | |
-OTHER | |
-PROFIT | |
-PROPERTY | |
-RECONCILED | | ![](SVGs/check.svg)
-RIGHTARROW | |
-RIGHTARROW_ACTIVE | |
-RUN |  | ![](SVGs/play.svg)
-SAVE | | ![](SVGs/save.svg)
-TRXNUM | | ![](SVGs/next.svg)
-UPARROW | | ![](SVGs/arrow-up.svg) ![](SVGs/up-arrow.svg) ![](SVGs/up-arrow2.svg) ![](SVGs/up-arrow3.svg) ![](SVGs/up-arrow4.svg) 
-VOID_STAT | | ![](SVGs/void.svg)
-WEB | www | ![](SVGs/currates.svg) 
+enum | Meaning | Icon | Alternative 
+:-- | :--  | :-- | :--
+ART |  | |
+AUTO |  |  |
+CAR | Asset type | ![](SVGs/car.svg) |
+CASH |  | ![](SVGs/cash.svg) |
+CLEAR |  | ![](SVGs/clean2.svg) | ![](SVGs/clean.svg)
+CLIP | Attachments | ![](SVGs/clip.svg) |
+CROWID |  | |
+DOWNARROW | | ![](SVGs/arrow-down.svg) |
+DUPLICATE_STAT | | ![](SVGs/duplicate.svg) |
+EDIT_ACC | | |
+EXIT | | |
+FOLLOW_UP | | ![](SVGs/followup.svg) |
+LEFTARROWSIMPLE | | |
+RIGHTARROWSIMPLE | | |
+HOUSEHOLD_OBJ | | |
+IMPORT | | |
+JEWELLERY | | ![](SVGs/diamond.svg) |
+LED_GREEN | | |
+LED_OFF | | |
+LED_RED | | |
+LED_YELLOW | | |
+LOSS | | |
+OTHER | | |
+PROFIT | | |
+PROPERTY | | |
+RECONCILED | | ![](SVGs/check.svg) |
+RIGHTARROW | | |
+RIGHTARROW_ACTIVE | | |
+RUN |  | ![](SVGs/play.svg) |
+SAVE | | ![](SVGs/save.svg) |
+TRXNUM | | ![](SVGs/next.svg) |
+UPARROW | | ![](SVGs/arrow-up.svg) | ![](SVGs/up-arrow.svg) ![](SVGs/up-arrow2.svg) ![](SVGs/up-arrow3.svg) ![](SVGs/up-arrow4.svg) 
+VOID_STAT | | ![](SVGs/void.svg) |
+WEB | www | ![](SVGs/currates.svg)  |
 
 
 ## Not used at present, consider adding
