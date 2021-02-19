@@ -18,7 +18,7 @@ GRM    | General Reports Manager |  | ![](SVGs/grm.svg)
 OPTIONS    | Options/Settings| ![](SVGs/options.svg) |
 NEW_TRX    | New Transaction | ![](SVGs/new_trx.svg) |
 NEWS    | Open News| ![](SVGs/news2.svg) | ![](SVGs/news.svg)
-NEW_NEWS    | New News<br> **Needs update**  | ![](SVGs/news2.svg) | 
+NEW_NEWS    | New News<br> **Needs update**  | ![](SVGs/nnews.svg) | 
 CURRATES    | Download Currency Rates | ![](SVGs/refresh.svg) | 
 FULLSCREEN    | Toggle Fullscreen | ![](SVGs/fullscreen.svg) | ![](SVGs/fullscreen2.svg)
 PRINT    | Print | ![](SVGs/print.svg) |
