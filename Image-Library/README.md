@@ -109,7 +109,7 @@ UPDATE | Help > Check For Updates | ![](SVGs/refresh.svg)
 
 enum | Meaning | Icon | Alternative 
 :-- | :--  | :-- | :--
-ART |  | |
+ART |  | ![](SVGs/art.svg) |
 AUTO |  |  |
 CAR | Asset type | ![](SVGs/car.svg) |
 CASH |  | ![](SVGs/cash.svg) |
