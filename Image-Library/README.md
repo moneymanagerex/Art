@@ -133,7 +133,7 @@ LED_YELLOW | | |
 LOSS | | |
 OTHER | | |
 PROFIT | | |
-PROPERTY | | |
+PROPERTY | | ![](SVGs/property.svg) |
 RECONCILED | | ![](SVGs/check.svg) |
 RIGHTARROW | | |
 RIGHTARROW_ACTIVE | | |
