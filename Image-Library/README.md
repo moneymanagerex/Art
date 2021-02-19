@@ -53,7 +53,7 @@ STOCK_ACC_NORMAL | Stock Portfolios | ![](SVGs/stocks.svg) ![](SVGs/portfolio.sv
 STOCK_ACC_FAVOURITE | Stock Portfolios | 
 STOCK_ACC_CLOSED | Stock Portfolios | 
 ASSET | Assets | ![](SVGs/assets.svg) ![](SVGs/box.svg)
-RECURRING | Recurring Transactions | ![](SVGs/recurring.svg)  ![](SVGs/recurring2.svg) ![](SVGs/clock.svg)
+RECURRING | Recurring Transactions | ![](SVGs/recurring2.svg)  ![](SVGs/recurring.svg) ![](SVGs/clock.svg)
 BUDGET | Budgets | ![](SVGs/budget.svg) ![](SVGs/loan.svg)
 PIE_CHART | Reports | ![](SVGs/pie_chart.svg)
 FILTER | Transaction Report Filter | See Toolbar
