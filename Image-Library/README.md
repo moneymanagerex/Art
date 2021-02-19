@@ -88,7 +88,7 @@ CUSTOM | Tools > Custom Fields Manager |
 ENCRYPT_DB | Tools > Database > Converted Encrypted DB | ![](SVGs/lock.svg) ![](SVGs/lock-on.svg)
 ENCRYPT_DB_EDIT | Tools > Database > Change Encryption Password | 
 FULLSCREEN | View > Toggle Fullscreen | See Toolbar
-LANG | View > Switch Language |
+LANG | View > Switch Language | ![](SVGs/language.svg)
 HELP | Help > Help | See Toolbar
 COMMUNITY | Help > Community | ![](SVGs/users.svg)
 PAYPAL | Help > Community > Donate via Paypal | ![](SVGs/paypal.svg)
