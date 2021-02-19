@@ -135,8 +135,8 @@ OTHER | | |
 PROFIT | | |
 PROPERTY | | ![](SVGs/property.svg) |
 RECONCILED | | ![](SVGs/check.svg) |
-RIGHTARROW | | |
-RIGHTARROW_ACTIVE | | |
+RIGHTARROW | | ![](SVGs/filter.svg) |
+RIGHTARROW_ACTIVE | | ![](SVGs/filter_active.svg) |
 RUN |  | ![](SVGs/play.svg) |
 SAVE | | ![](SVGs/save.svg) |
 TRXNUM | | ![](SVGs/next.svg) |
