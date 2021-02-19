@@ -90,7 +90,7 @@ HELP | Help > Help | See Toolbar
 COMMUNITY | Help > Community | ![](SVGs/users.svg)
 PAYPAL | Help > Community > Donate via Paypal | ![](SVGs/paypal.svg)
 FORUM | Help > Community > Forum  | ![](SVGs/forum.svg)
-GITHUB | Help > Community > Github  | 
+GITHUB | Help > Community > Github  | ![](SVGs/github.svg)
 SLACK | Help > Community > Slack  | 
 FACEBOOK | Help > Community > Facebook | ![](SVGs/facebook.svg)
 GOOGLE_PLAY | Help > Community > Google Play | 
