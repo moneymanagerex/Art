@@ -43,10 +43,10 @@ CARD_ACC_CLOSED| Credit Card Accounts |
 CASH_ACC_NORMAL | Cash accounts | ![](SVGs/wallet.svg)
 CASH_ACC_FAVOURITE | Cash accounts | 
 CASH_ACC_CLOSED | Cash accounts | 
-LOAN_ACC_NORMAL | Loan accounts | 
+LOAN_ACC_NORMAL | Loan accounts | ![](SVGs/loan.svg)
 LOAN_ACC_FAVOURITE | Loan accounts | 
 LOAN_ACC_CLOSED | Term accounts | 
-TERM_ACC_NORMAL | Term accounts | 
+TERM_ACC_NORMAL | Term accounts | ![](SVGs/term.svg)
 TERM_ACC_FAVOURITE | Term accounts | |
 TERM_ACC_CLOSED | Term accounts | |
 STOCK_ACC_NORMAL | Stock Portfolios | ![](SVGs/stocks.svg) ![](SVGs/portfolio.svg)
