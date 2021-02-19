@@ -113,10 +113,10 @@ CLEAR |  | ![](SVGs/clean2.svg) ![](SVGs/clean.svg)
 CLIP | Attachments | ![](SVGs/clip.svg)
 CROWID |  |
 DOWNARROW | | ![](SVGs/arrow-down.svg)
-DUPLICATE_STAT | |
+DUPLICATE_STAT | | ![](SVGs/duplicate.svg)
 EDIT_ACC | |
 EXIT | |
-FOLLOW_UP | |
+FOLLOW_UP | | ![](SVGs/followup.svg)
 LEFTARROWSIMPLE | |
 RIGHTARROWSIMPLE | |
 HOUSEHOLD_OBJ | |
@@ -137,7 +137,7 @@ RUN |  | ![](SVGs/play.svg)
 SAVE | | ![](SVGs/save.svg)
 TRXNUM | | ![](SVGs/next.svg)
 UPARROW | | ![](SVGs/arrow-up.svg) ![](SVGs/up-arrow.svg) ![](SVGs/up-arrow2.svg) ![](SVGs/up-arrow3.svg) ![](SVGs/up-arrow4.svg) 
-VOID_STAT | |
+VOID_STAT | | ![](SVGs/void.svg)
 WEB | www | ![](SVGs/currates.svg) 
 
 
