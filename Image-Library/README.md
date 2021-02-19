@@ -121,8 +121,8 @@ DUPLICATE_STAT | | ![](SVGs/duplicate.svg) |
 EDIT_ACC | | |
 EXIT | | ![](SVGs/power.svg) | ![](SVGs/logout.svg)
 FOLLOW_UP | | ![](SVGs/followup.svg) |
-LEFTARROWSIMPLE | | |
-RIGHTARROWSIMPLE | | |
+LEFTARROWSIMPLE | | ![](SVGs/leftarrow.svg) |
+RIGHTARROWSIMPLE | | ![](SVGs/rightarrow.svg) |
 HOUSEHOLD_OBJ | | |
 IMPORT | | |
 JEWELLERY | | ![](SVGs/diamond.svg) |
