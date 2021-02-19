@@ -130,7 +130,7 @@ LOSS | |
 OTHER | |
 PROFIT | |
 PROPERTY | |
-RECONCILED | |
+RECONCILED | | ![](SVGs/check.svg)
 RIGHTARROW | |
 RIGHTARROW_ACTIVE | |
 RUN |  | ![](SVGs/play.svg)
