@@ -19,7 +19,7 @@ OPTIONS    | Options/Settings| ![](SVGs/options.svg)
 NEW_TRX    | New Transaction | ![](SVGs/new_trx.svg)
 NEWS    | Open News| ![](SVGs/news.svg) ![](SVGs/news2.svg)
 NEW_NEWS    | New News<br>***Needs update**  | ![](SVGs/news.svg)
-CURRATES    | Download Currency Rates | ![](SVGs/currates.svg)  ![](SVGs/refresh.svg)
+CURRATES    | Download Currency Rates | ![](SVGs/refresh.svg)
 FULLSCREEN    | Toggle Fullscreen | ![](SVGs/fullscreen.svg) ![](SVGs/fullscreen2.svg)
 PRINT    | Print | ![](SVGs/print.svg)
 ABOUT    | About | ![](SVGs/about.svg)
@@ -138,7 +138,7 @@ SAVE | |
 TRXNUM | |
 UPARROW | |
 VOID_STAT | |
-WEB | |
+WEB | www | ![](SVGs/currates.svg) 
 
 
 ## Not used at present, consider adding
