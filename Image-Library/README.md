@@ -118,7 +118,7 @@ CLIP | Attachments | ![](SVGs/clip.svg) |
 CROWID |  | ![](SVGs/crowdin.svg) |
 DOWNARROW | |  | ![](SVGs/arrow-down.svg)
 DUPLICATE_STAT | | ![](SVGs/duplicate.svg) |
-EDIT_ACC | | |
+EDIT_ACC | | |  ![](SVGs/grm.svg) + ![](SVGs/open.svg)
 EXIT | | ![](SVGs/power.svg) | ![](SVGs/logout.svg)
 FOLLOW_UP | | ![](SVGs/followup.svg) |
 LEFTARROWSIMPLE | | ![](SVGs/leftarrow.svg) |
