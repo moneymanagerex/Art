@@ -4,26 +4,26 @@ Original icons here: https://www.svgrepo.com/
 
 ## Tool Bar
 
-enum | Meaning  | Icon
-:-- | :--  | :--
-NEW_DB | New Database | ![](SVGs/new_db.svg)  ![](SVGs/db.svg) ![](SVGs/db2.svg) 
-OPEN    | Open Database | ![](SVGs/open.svg) ![](SVGs/open2.svg)
-NEW_ACC    | New Account | ![](SVGs/new_acc.svg) ![](SVGs/new_db.svg)
-HOME    | Home | ![](SVGs/home.svg)
-CATEGORY    | Organize Categories | ![](SVGs/category.svg)
-PAYEE    | Organize Payees | ![](SVGs/payee.svg)
-CURR    | Organize Currencies | ![](SVGs/currency.svg)
-FILTER    | Transaction Report Filter | ![](SVGs/filter.svg)
-GRM    | General Reports Manager | ![](SVGs/grm.svg)
-OPTIONS    | Options/Settings| ![](SVGs/options.svg)
-NEW_TRX    | New Transaction | ![](SVGs/new_trx.svg)
-NEWS    | Open News| ![](SVGs/news.svg) ![](SVGs/news2.svg)
-NEW_NEWS    | New News<br>***Needs update**  | ![](SVGs/news.svg)
-CURRATES    | Download Currency Rates | ![](SVGs/refresh.svg)
-FULLSCREEN    | Toggle Fullscreen | ![](SVGs/fullscreen.svg) ![](SVGs/fullscreen2.svg)
-PRINT    | Print | ![](SVGs/print.svg)
-ABOUT    | About | ![](SVGs/about.svg)
-HELP    | New Transaction | ![](SVGs/help.svg)
+enum | Meaning  | Icon | Alternative 
+:-- | :--  | :-- | :--
+NEW_DB | New Database | ![](SVGs/db2.svg) | ![](SVGs/new_db.svg)  ![](SVGs/db.svg) 
+OPEN    | Open Database | ![](SVGs/open2.svg) | ![](SVGs/open.svg) 
+NEW_ACC    | New Account | ![](SVGs/new_db.svg) | ![](SVGs/new_acc.svg) 
+HOME    | Home | ![](SVGs/home.svg) |
+CATEGORY    | Organize Categories | ![](SVGs/category.svg) |
+PAYEE    | Organize Payees | ![](SVGs/payee.svg) |
+CURR    | Organize Currencies | ![](SVGs/currency.svg) |
+FILTER    | Transaction Report Filter | ![](SVGs/filter.svg) |
+GRM    | General Reports Manager | ![](SVGs/grm.svg) |
+OPTIONS    | Options/Settings| ![](SVGs/options.svg) |
+NEW_TRX    | New Transaction | ![](SVGs/new_trx.svg) |
+NEWS    | Open News| ![](SVGs/news2.svg) | ![](SVGs/news.svg)
+NEW_NEWS    | New News<br> **Needs update**  | ![](SVGs/news2.svg) | 
+CURRATES    | Download Currency Rates | ![](SVGs/refresh.svg) | 
+FULLSCREEN    | Toggle Fullscreen | ![](SVGs/fullscreen.svg) | ![](SVGs/fullscreen2.svg)
+PRINT    | Print | ![](SVGs/print.svg) |
+ABOUT    | About | ![](SVGs/about.svg) |
+HELP    | New Transaction | ![](SVGs/help.svg) |
 
 ## Navigation
 
