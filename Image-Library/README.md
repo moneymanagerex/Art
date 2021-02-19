@@ -136,7 +136,7 @@ RIGHTARROW_ACTIVE | |
 RUN |  | ![](SVGs/play.svg)
 SAVE | |
 TRXNUM | |
-UPARROW | |
+UPARROW | | ![](SVGs/up-arrow.svg) ![](SVGs/up-arrow2.svg) ![](SVGs/up-arrow3.svg) ![](SVGs/up-arrow4.svg) 
 VOID_STAT | |
 WEB | www | ![](SVGs/currates.svg) 
 
