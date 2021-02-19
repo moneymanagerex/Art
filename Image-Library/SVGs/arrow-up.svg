@@ -13,7 +13,7 @@
    fill="none"
    version="1.1"
    id="svg845"
-   sodipodi:docname="arrow-down.svg"
+   sodipodi:docname="arrow-up.svg"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata851">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38,17 +38,18 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1219"
+     inkscape:window-width="1636"
      inkscape:window-height="734"
      id="namedview847"
      showgrid="false"
-     inkscape:zoom="22.95977"
+     inkscape:zoom="14.884265"
      inkscape:cx="12"
      inkscape:cy="12"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg845" />
+     inkscape:current-layer="svg845"
+     inkscape:document-rotation="0" />
   <path
      d="M 12,7 V 17 M 12,7 8,11 m 4,-4 4,4"
      stroke="#001A72"
@@ -56,5 +57,5 @@
      stroke-linecap="round"
      stroke-linejoin="round"
      id="path843"
-     style="fill:none;fill-opacity:1;stroke:#cc3300;stroke-opacity:1" />
+     style="fill:none;fill-opacity:1;stroke:#006633;stroke-opacity:1" />
 </svg>
