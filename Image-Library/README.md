@@ -73,7 +73,7 @@ CURRATES | Tools > Download Rates | See Toolbar
 CATEGORY | Tools > Organize Categories | See Toolbar
 PAYEE | Tools > Organize Payees | See Toolbar
 CURR | Tools > Organize Currency | See Toolbar
-RELOCATIONS | Tools > Relocation of... | 
+RELOCATIONS | Tools > Relocation of... | ![](SVGs/relocation.svg)
 CATEGORY_RELOCATION | Tools > Relocation of... > Categories | 
 PAYEE_RELOCATION | Tools > Relocation of... > Payees | 
 BUDGET | Tools > Budget Setup | See Navigation
