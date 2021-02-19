@@ -100,7 +100,7 @@ GOOGLE_PLAY | Help > Community > Google Play |
 NEWS | Help > Community > Newsletter | See Toolbar
 NEWS | Help > Community > RSS Feed |  See Toolbar
 DONATE | Help > Community > Donate via PayPal |
-BUG | Help > Report A Bug | 
+BUG | Help > Report A Bug | ![](SVGs/bug.svg)
 APPSTART | Help > Show App Start Dialog | 
 UPDATE | Help > Check For Updates | ![](SVGs/refresh.svg)
 
