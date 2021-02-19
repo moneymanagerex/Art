@@ -87,7 +87,8 @@ ENCRYPT_DB_EDIT | Tools > Database > Change Encryption Password |
 FULLSCREEN | View > Toggle Fullscreen | See Toolbar
 LANG | View > Switch Language |
 HELP | Help > Help | See Toolbar
-COMMUNITY | Help > Community > Donate via Paypal | ![](SVGs/users.svg)
+COMMUNITY | Help > Community | ![](SVGs/users.svg)
+PAYPAL | Help > Community > Donate via Paypal | ![](SVGs/paypal.svg)
 FORUM | Help > Community > Forum  | ![](SVGs/forum.svg)
 GITHUB | Help > Community > Github  | 
 SLACK | Help > Community > Slack  | 
