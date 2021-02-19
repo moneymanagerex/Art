@@ -132,7 +132,7 @@ LED_RED | | |
 LED_YELLOW | | |
 LOSS | | ![](SVGs/arrow-down.svg) |
 OTHER | | | ![](SVGs/grid.svg)
-PROFIT | | | ![](SVGs/arrow-up.svg)
+PROFIT | | ![](SVGs/arrow-up.svg) | 
 PROPERTY | | ![](SVGs/property.svg) |
 RECONCILED | | ![](SVGs/check.svg) |
 RIGHTARROW | | ![](SVGs/filter.svg) |
