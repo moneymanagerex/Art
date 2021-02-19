@@ -25,20 +25,6 @@ PRINT    | Print | ![](SVGs/print.svg)
 ABOUT    | About | ![](SVGs/about.svg)
 HELP    | New Transaction | ![](SVGs/help.svg)
 
-## Menus
-
-enum | Meaning | Icon
-:-- | :--  | :--
-NEW_DB | File > New Database | See Toolbar
-OPEN    | File > Open Database | See Toolbar
-SAVEAS | File > Save As  | ![](SVGs/save.svg)
-CLEARLIST | File > Clear Recent Files |
-HOME | Accounts > Account List | See Toolbar
-NEW_ACC | Accounts > New Account| See Toolbar
-EDIT_ACC | Accounts > Edit Account| 
-REALLOCATE_ACC | Accounts > Reallocate Account| 
-DELETE_ACC | Accounts > Delete Account| 
-
 ## Navigation
 
 enum | Meaning | Icon
@@ -71,15 +57,92 @@ FILTER | Transaction Report Filter | See Toolbar
 GRM | GRM Reports | See Toolbar
 HELP | Help | See Toolbar
 
+## Menus
+
+enum | Meaning | Icon
+:-- | :--  | :--
+NEW_DB | File > New Database | See Toolbar
+OPEN    | File > Open Database | See Toolbar
+SAVEAS | File > Save As  | ![](SVGs/save.svg)
+CLEARLIST | File > Clear Recent Files |
+HOME | Accounts > Account List | See Toolbar
+NEW_ACC | Accounts > New Account| See Toolbar
+EDIT_ACC | Accounts > Edit Account | 
+REALLOCATE_ACC | Accounts > Reallocate Account | 
+CURRATES | Tools > Download Rates | See Toolbar
+CATEGORY | Tools > Organize Categories | See Toolbar
+PAYEE | Tools > Organize Payees | See Toolbar
+CURR | Tools > Organize Currency | See Toolbar
+RELOCATIONS | Tools > Relocation of... | 
+CATEGORY_RELOCATION | Tools > Relocation of... > Categories | 
+PAYEE_RELOCATION | Tools > Relocation of... > Payees | 
+BUDGET | Tools > Budget Setup | See Navigation
+RECURRING | Tools > Recurring Transactions | See Navigation
+ASSET | Tools > Assets | See Navigation
+FILTER | Tools > Transaction Report Filter | See Toolbar
+GRM | Tools > General Report Manager  | See Toolbar
+CUSTOM | Tools > Custom Fields Manager | 
+ENCRYPT_DB | Tools > Database > Converted Encrypted DB | ![](SVGs/lock.svg) ![](SVGs/lock-on.svg)
+ENCRYPT_DB_EDIT | Tools > Database > Change Encryption Password | 
+FULLSCREEN | View > Toggle Fullscreen | See Toolbar
+LANG | View > Switch Language |
+HELP | Help > Help | See Toolbar
+COMMUNITY | Help > Community > Donate via Paypal | ![](SVGs/users.svg)
+FORUM | Help > Community > Forum  | 
+GITHUB | Help > Community > Github  | 
+SLACK | Help > Community > Slack  | 
+FACEBOOK | Help > Community > Facebook | ![](SVGs/facebook.svg)
+GOOGLE_PLAY | Help > Community > Google Play | 
+NEWS | Help > Community > Newsletter | See Toolbar
+NEWS | Help > Community > RSS Feed |  See Toolbar
+DONATE | Help > Community > Donate via PayPal |
+BUG | Help > Report A Bug | 
+APPSTART | Help > Show App Start Dialog | 
+UPDATE | Help > Check For Updates | ![](SVGs/refresh.svg)
+
+
 ## Others
 
 enum | Meaning | Icon
 :-- | :--  | :--
-ENCRYPT_DB | Convert Encrypted DB | ![](SVGs/lock.svg) ![](SVGs/lock-on.svg)
+ART |  |
+AUTO |  |
+CAR |  |
+CASH |  |
+CLEAR |  | ![](SVGs/clean2.svg) ![](SVGs/clean.svg)
 CLIP | Attachments | ![](SVGs/clip.svg)
-community | Help - Community | ![](SVGs/users.svg)
-??? | Online update | ![](SVGs/refresh.svg)
-RUN | ??? | ![](SVGs/play.svg)
-CLEAR | ??? | ![](SVGs/clean2.svg) ![](SVGs/clean.svg)
-FACEBOOK | Facebook | ![](SVGs/facebook.svg)
-TWITTER | Twitter | ![](SVGs/twitter.svg)
+CROWID |  |
+DOWNARROW | |
+DUPLICATE_STAT | |
+EDIT_ACC | |
+EXIT | |
+FOLLOW_UP | |
+LEFTARROWSIMPLE | |
+RIGHTARROWSIMPLE | |
+HOUSEHOLD_OBJ | |
+IMPORT | |
+JEWELLERY | |
+LED_GREEN | |
+LED_OFF | |
+LED_RED | |
+LED_YELLOW | |
+LOSS | |
+OTHER | |
+PROFIT | |
+PROPERTY | |
+RECONCILED | |
+RIGHTARROW | |
+RIGHTARROW_ACTIVE | |
+RUN |  | ![](SVGs/play.svg)
+SAVE | |
+TRXNUM | |
+UPARROW | |
+VOID_STAT | |
+WEB | |
+
+
+## Not used at present, consider adding
+
+enum | Meaning | Icon
+:-- | :--  | :--
+TWITTER | Help > Community > Twitter | ![](SVGs/twitter.svg)
