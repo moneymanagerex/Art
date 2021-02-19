@@ -112,7 +112,7 @@ CASH |  |
 CLEAR |  | ![](SVGs/clean2.svg) ![](SVGs/clean.svg)
 CLIP | Attachments | ![](SVGs/clip.svg)
 CROWID |  |
-DOWNARROW | |
+DOWNARROW | | ![](SVGs/arrow-down.svg)
 DUPLICATE_STAT | |
 EDIT_ACC | |
 EXIT | |
@@ -136,7 +136,7 @@ RIGHTARROW_ACTIVE | |
 RUN |  | ![](SVGs/play.svg)
 SAVE | | ![](SVGs/save.svg)
 TRXNUM | |
-UPARROW | | ![](SVGs/up-arrow.svg) ![](SVGs/up-arrow2.svg) ![](SVGs/up-arrow3.svg) ![](SVGs/up-arrow4.svg) 
+UPARROW | | ![](SVGs/arrow-up.svg) ![](SVGs/up-arrow.svg) ![](SVGs/up-arrow2.svg) ![](SVGs/up-arrow3.svg) ![](SVGs/up-arrow4.svg) 
 VOID_STAT | |
 WEB | www | ![](SVGs/currates.svg) 
 
