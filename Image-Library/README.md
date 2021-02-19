@@ -113,7 +113,7 @@ ART |  | |
 AUTO |  |  |
 CAR | Asset type | ![](SVGs/car.svg) |
 CASH |  | ![](SVGs/cash.svg) |
-CLEAR |  | ![](SVGs/clean2.svg) | ![](SVGs/clean.svg)
+CLEAR |  |  | ![](SVGs/clean2.svg) ![](SVGs/clean.svg)
 CLIP | Attachments | ![](SVGs/clip.svg) |
 CROWID |  | |
 DOWNARROW | | ![](SVGs/arrow-down.svg) |
