@@ -131,7 +131,7 @@ LED_OFF | | |
 LED_RED | | |
 LED_YELLOW | | |
 LOSS | | |
-OTHER | | |
+OTHER | | | ![](SVGs/grid.svg)
 PROFIT | | |
 PROPERTY | | ![](SVGs/property.svg) |
 RECONCILED | | ![](SVGs/check.svg) |
