@@ -31,7 +31,6 @@ enum | Meaning | Icon
 :-- | :--  | :--
 HOME  |  | See Toolbar
 ALLTRANSACTIONS | All Transactions | ![](SVGs/all.svg)
-SAVINGS_ACC_NORMAL | Checking Accounts | 
 XXX_FAVOURITE | Favorite | ![](SVGs/favorite.svg)
 XXX_CLOSED | Closed | ![](SVGs/closed.svg)
 SAVINGS_ACC_NORMAL | | ![](SVGs/bank.svg) ![](SVGs/bank2.svg) ![](SVGs/bank3.svg) ![](SVGs/bank4.svg)
