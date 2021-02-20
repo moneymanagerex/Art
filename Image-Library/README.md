@@ -51,7 +51,7 @@ TERM_ACC_CLOSED | Term accounts | |
 STOCK_ACC_NORMAL | Stock Portfolios | ![](SVGs/stocks.svg) ![](SVGs/portfolio.svg)
 STOCK_ACC_FAVOURITE | Stock Portfolios | 
 STOCK_ACC_CLOSED | Stock Portfolios | 
-ASSET | Assets | ![](SVGs/assets.svg) ![](SVGs/box.svg)
+ASSET | Assets | ![](SVGs/box.svg) ![](SVGs/assets.svg) 
 RECURRING | Recurring Transactions | ![](SVGs/recurring2.svg)  ![](SVGs/recurring.svg) ![](SVGs/clock.svg)
 BUDGET | Budgets | ![](SVGs/budget.svg) ![](SVGs/loan.svg)
 PIE_CHART | Reports | ![](SVGs/pie_chart.svg)
