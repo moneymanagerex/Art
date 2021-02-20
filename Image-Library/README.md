@@ -129,9 +129,9 @@ LED_GREEN | | |
 LED_OFF | | |
 LED_RED | | |
 LED_YELLOW | | |
-LOSS | | ![](SVGs/arrow-down.svg) |
+LOSS | | ![](SVGs/loss.svg) |
 OTHER | | | ![](SVGs/grid.svg)
-PROFIT | | ![](SVGs/arrow-up.svg) | 
+PROFIT | | ![](SVGs/profit.svg) | 
 PROPERTY | | ![](SVGs/property.svg) |
 RECONCILED | | ![](SVGs/check.svg) | 
 RIGHTARROW | | |  ![](SVGs/filter_active.svg)
