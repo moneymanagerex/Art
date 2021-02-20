@@ -33,8 +33,8 @@ HOME  |  | See Toolbar
 ALLTRANSACTIONS | All Transactions | ![](SVGs/all.svg)
 XXX_FAVOURITE | Favorite | ![](SVGs/favorite.svg)
 XXX_CLOSED | Closed | ![](SVGs/closed.svg)
-SAVINGS_ACC_NORMAL | | ![](SVGs/safe.svg) ![](SVGs/bank.svg) ![](SVGs/bank2.svg) ![](SVGs/bank3.svg) ![](SVGs/bank4.svg)
-SAVINGS_ACC_FAVOURITE | Checking Accounts | ![](SVGs/bank33.svg)
+SAVINGS_ACC_NORMAL | | ![](SVGs/bank33.svg) ![](SVGs/safe.svg) ![](SVGs/bank.svg) ![](SVGs/bank2.svg) ![](SVGs/bank3.svg) ![](SVGs/bank4.svg)
+SAVINGS_ACC_FAVOURITE | Checking Accounts | ![](SVGs/bank55.svg)
 SAVINGS_ACC_CLOSED | Checking Accounts | 
 CARD_ACC_NORMAL | Credit Card Accounts |
 CARD_ACC_FAVOURITE | Credit Card Accounts | ![](SVGs/creditcard.svg)
