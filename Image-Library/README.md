@@ -53,8 +53,47 @@ FILTER | Transaction Report Filter | See Toolbar
 GRM | GRM Reports | See Toolbar
 HELP | Help | See Toolbar
 
-## Menus
+## Others
 
+enum | Meaning | Icon | Alternative 
+:-- | :--  | :-- | :--
+ART |  | ![](SVGs/art.svg) |
+AUTO |  |  | ![](SVGs/wand.svg)
+CAR | Asset type | ![](SVGs/car.svg) |
+CASH |  | ![](SVGs/cash.svg) |
+CLEAR |  | ![](SVGs/brush.svg) | ![](SVGs/clean2.svg) ![](SVGs/clean.svg)
+CLIP | Attachments | ![](SVGs/clip.svg) |
+CROWID |  | ![](SVGs/crowdin.svg) |
+DOWNARROW | | ![](SVGs/arrow-down.svg) | 
+DUPLICATE_STAT | | ![](SVGs/duplicate.svg) |
+EDIT_ACC | | ![](SVGs/edit_acc.svg) |  ![](SVGs/grm.svg) + ![](SVGs/open.svg)
+EXIT | | ![](SVGs/power.svg) | ![](SVGs/logout.svg)
+FOLLOW_UP | | ![](SVGs/followup.svg) |
+LEFTARROWSIMPLE | | ![](SVGs/leftarrow.svg) |
+RIGHTARROWSIMPLE | | ![](SVGs/rightarrow.svg) |
+HOUSEHOLD_OBJ | | ![](SVGs/household.svg) |
+IMPORT | | ![](SVGs/download.svg) |
+JEWELLERY | | ![](SVGs/diamond.svg) |
+LED_GREEN | | ![](SVGs/led-green.svg) |
+LED_OFF | | ![](SVGs/led-gray.svg) |
+LED_RED | | ![](SVGs/led-red.svg) |
+LED_YELLOW | | ![](SVGs/led-amber.svg) |
+LOSS | | ![](SVGs/loss.svg) |
+OTHER | | ![](SVGs/grid.svg) |![](SVGs/other2.svg)
+PROFIT | | ![](SVGs/profit.svg) | 
+PROPERTY | | ![](SVGs/property.svg) |
+RECONCILED | | ![](SVGs/check.svg) | 
+RIGHTARROW | | |  ![](SVGs/filter_active.svg)
+RIGHTARROW_ACTIVE | |  | ![](SVGs/filter.svg)
+RUN |  | ![](SVGs/play.svg) |
+SAVE | | ![](SVGs/save.svg) |
+TRXNUM | | ![](SVGs/next.svg) |
+UPARROW | | ![](SVGs/arrow-up.svg) |  ![](SVGs/up-arrow.svg) ![](SVGs/up-arrow2.svg) ![](SVGs/up-arrow3.svg) ![](SVGs/up-arrow4.svg) 
+VOID_STAT | | ![](SVGs/void.svg) |
+WEB | www | ![](SVGs/currates.svg)  |
+
+## Menus
+(Deprecated)
 enum | Meaning | Icon
 :-- | :--  | :--
 NEW_DB | File > New Database | See Toolbar
@@ -98,48 +137,9 @@ APPSTART | Help > Show App Start Dialog |
 UPDATE | Help > Check For Updates | ![](SVGs/refresh.svg)
 
 
-## Others
-
-enum | Meaning | Icon | Alternative 
-:-- | :--  | :-- | :--
-ART |  | ![](SVGs/art.svg) |
-AUTO |  |  | ![](SVGs/wand.svg)
-CAR | Asset type | ![](SVGs/car.svg) |
-CASH |  | ![](SVGs/cash.svg) |
-CLEAR |  | ![](SVGs/brush.svg) | ![](SVGs/clean2.svg) ![](SVGs/clean.svg)
-CLIP | Attachments | ![](SVGs/clip.svg) |
-CROWID |  | ![](SVGs/crowdin.svg) |
-DOWNARROW | | ![](SVGs/arrow-down.svg) | 
-DUPLICATE_STAT | | ![](SVGs/duplicate.svg) |
-EDIT_ACC | | ![](SVGs/edit_acc.svg) |  ![](SVGs/grm.svg) + ![](SVGs/open.svg)
-EXIT | | ![](SVGs/power.svg) | ![](SVGs/logout.svg)
-FOLLOW_UP | | ![](SVGs/followup.svg) |
-LEFTARROWSIMPLE | | ![](SVGs/leftarrow.svg) |
-RIGHTARROWSIMPLE | | ![](SVGs/rightarrow.svg) |
-HOUSEHOLD_OBJ | | ![](SVGs/household.svg) |
-IMPORT | | ![](SVGs/download.svg) |
-JEWELLERY | | ![](SVGs/diamond.svg) |
-LED_GREEN | | ![](SVGs/led-green.svg) |
-LED_OFF | | ![](SVGs/led-gray.svg) |
-LED_RED | | ![](SVGs/led-red.svg) |
-LED_YELLOW | | ![](SVGs/led-amber.svg) |
-LOSS | | ![](SVGs/loss.svg) |
-OTHER | | ![](SVGs/grid.svg) |![](SVGs/other2.svg)
-PROFIT | | ![](SVGs/profit.svg) | 
-PROPERTY | | ![](SVGs/property.svg) |
-RECONCILED | | ![](SVGs/check.svg) | 
-RIGHTARROW | | |  ![](SVGs/filter_active.svg)
-RIGHTARROW_ACTIVE | |  | ![](SVGs/filter.svg)
-RUN |  | ![](SVGs/play.svg) |
-SAVE | | ![](SVGs/save.svg) |
-TRXNUM | | ![](SVGs/next.svg) |
-UPARROW | | ![](SVGs/arrow-up.svg) |  ![](SVGs/up-arrow.svg) ![](SVGs/up-arrow2.svg) ![](SVGs/up-arrow3.svg) ![](SVGs/up-arrow4.svg) 
-VOID_STAT | | ![](SVGs/void.svg) |
-WEB | www | ![](SVGs/currates.svg)  |
-
-
 ## Not used at present, consider adding
 
 enum | Meaning | Icon
 :-- | :--  | :--
 TWITTER | Help > Community > Twitter | ![](SVGs/twitter.svg)
+
