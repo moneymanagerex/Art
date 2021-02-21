@@ -120,10 +120,10 @@ RIGHTARROWSIMPLE | | ![](SVGs/rightarrow.svg) |
 HOUSEHOLD_OBJ | | ![](SVGs/household.svg) |
 IMPORT | | ![](SVGs/download.svg) |
 JEWELLERY | | ![](SVGs/diamond.svg) |
-LED_GREEN | | |
-LED_OFF | | |
-LED_RED | | |
-LED_YELLOW | | |
+LED_GREEN | | ![](SVGs/led-green.svg) |
+LED_OFF | | ![](SVGs/led-gray.svg) |
+LED_RED | | ![](SVGs/led-red.svg) |
+LED_YELLOW | | ![](SVGs/led-amber.svg) |
 LOSS | | ![](SVGs/loss.svg) |
 OTHER | | ![](SVGs/grid.svg) |![](SVGs/other2.svg)
 PROFIT | | ![](SVGs/profit.svg) | 
