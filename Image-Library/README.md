@@ -36,20 +36,15 @@ XXX_CLOSED | Closed | ![](SVGs/closed.svg)
 SAVINGS_ACC_NORMAL | | ![](SVGs/bank55.svg) ![](SVGs/bank33.svg) ![](SVGs/safe.svg) ![](SVGs/bank.svg) ![](SVGs/bank2.svg) ![](SVGs/bank3.svg) ![](SVGs/bank4.svg)
 SAVINGS_ACC_FAVOURITE | Checking Accounts | ![](SVGs/bank77.svg)
 SAVINGS_ACC_CLOSED | Checking Accounts | 
-CARD_ACC_NORMAL | Credit Card Accounts |
-CARD_ACC_FAVOURITE | Credit Card Accounts | ![](SVGs/creditcard.svg)
-CARD_ACC_CLOSED| Credit Card Accounts | 
-CASH_ACC_NORMAL | Cash accounts | 
-CASH_ACC_FAVOURITE | Cash accounts | ![](SVGs/wallet.svg)
-CASH_ACC_CLOSED | Cash accounts | 
-LOAN_ACC_NORMAL | Loan accounts | 
-LOAN_ACC_FAVOURITE | Loan accounts | ![](SVGs/loan.svg)
-LOAN_ACC_CLOSED | Term accounts | 
-TERM_ACC_NORMAL | Term accounts | 
-TERM_ACC_FAVOURITE | Term accounts | ![](SVGs/term.svg)
-TERM_ACC_CLOSED | Term accounts | 
-STOCK_ACC_NORMAL | Stock Portfolios | ![](SVGs/portfolio_normal.svg) 
-STOCK_ACC_FAVOURITE | Stock Portfolios | ![](SVGs/portfolio.svg)
+CARD_ACC | Credit Card Accounts | ![](SVGs/creditcard.svg)
+CARD_ACC_CLOSED| Credit Card Accounts | ![](SVGs/creditcard_gray.svg)
+CASH_ACC | Cash accounts | ![](SVGs/wallet.svg)
+CASH_ACC_CLOSED | Cash accounts | ![](SVGs/wallet_gray.svg)
+LOAN_ACC | Loan accounts | ![](SVGs/loan.svg)
+LOAN_ACC_CLOSED | Term accounts | ![](SVGs/loan_gray.svg)
+TERM_ACC | Term accounts | ![](SVGs/term.svg)
+TERM_ACC_CLOSED | Term accounts | ![](SVGs/term_gray.svg)
+STOCK_ACC | Stock Portfolios | ![](SVGs/portfolio.svg)
 STOCK_ACC_CLOSED | Stock Portfolios | ![](SVGs/portfolio_closed.svg)
 ASSET | Assets | ![](SVGs/box.svg) ![](SVGs/assets.svg) 
 RECURRING | Recurring Transactions | ![](SVGs/recurring2.svg)  ![](SVGs/recurring.svg) ![](SVGs/clock.svg)
