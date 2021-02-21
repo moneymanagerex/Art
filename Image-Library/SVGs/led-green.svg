@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7041"
+   sodipodi:docname="led-green-black.svg"
+   viewBox="0 0 24 24"
+   version="1.1"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   width="24"
+   height="24">
+  <defs
+     id="defs7043">
+    <radialGradient
+       id="radialGradient7003"
+       gradientUnits="userSpaceOnUse"
+       cy="21.5"
+       cx="47.5"
+       r="2.5"
+       inkscape:collect="always"
+       gradientTransform="matrix(2.8628275,0,0,2.8628275,312.95491,591.0719)">
+      <stop
+         id="stop6999"
+         style="stop-color:#00c300;stop-opacity:0"
+         offset="0" />
+      <stop
+         id="stop7005"
+         style="stop-color:#00c300;stop-opacity:.49804"
+         offset="0.82" />
+      <stop
+         id="stop7001"
+         style="stop-color:#aeffae"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient6993"
+       gradientUnits="userSpaceOnUse"
+       cy="21.5"
+       cx="47.5"
+       r="2.5"
+       inkscape:collect="always"
+       gradientTransform="matrix(2.8628275,0,0,2.8628275,314.10004,589.92677)">
+      <stop
+         id="stop6245"
+         style="stop-color:#ffffff"
+         offset="0" />
+      <stop
+         id="stop6247"
+         style="stop-color:#0dee1b;stop-opacity:0"
+         offset="1" />
+    </radialGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     inkscape:window-y="0"
+     pagecolor="#ffffff"
+     inkscape:window-height="1041"
+     inkscape:window-maximized="0"
+     inkscape:zoom="17.829007"
+     inkscape:window-x="107"
+     showgrid="false"
+     borderopacity="1.0"
+     inkscape:current-layer="layer1"
+     inkscape:cx="11.461974"
+     inkscape:cy="14.801267"
+     inkscape:window-width="1154"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="px"
+     inkscape:document-rotation="0" />
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(-437,-640.79)">
+    <circle
+       id="path6189-3"
+       style="fill:#00663f;fill-opacity:1;stroke-width:3.43539"
+       cx="448.93921"
+       cy="652.62268"
+       r="8.5884829" />
+    <circle
+       id="path6983"
+       style="fill:#00c300;stroke-width:2.86284"
+       cx="448.93921"
+       cy="652.62268"
+       r="7.1570683" />
+    <circle
+       id="path6985"
+       style="fill:url(#radialGradient6993);stroke-width:2.86284"
+       cx="450.08435"
+       cy="651.47748"
+       r="7.1570683" />
+    <circle
+       id="path6995"
+       style="fill:url(#radialGradient7003);stroke-width:2.86284"
+       cx="448.93921"
+       cy="652.62268"
+       r="7.1570683" />
+  </g>
+  <metadata
+     id="metadata2794">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>LED, Green</dc:title>
+        <dc:date>2010-10-02T04:06:06</dc:date>
+        <dc:description>A green LED with a black surround</dc:description>
+        <dc:source>https://openclipart.org/detail/88117/led-green-by-bnielsen</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>bnielsen</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>green</rdf:li>
+            <rdf:li>led</rdf:li>
+            <rdf:li>light</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
