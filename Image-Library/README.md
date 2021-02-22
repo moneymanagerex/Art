@@ -69,7 +69,7 @@ enum | Meaning | Icon | Alternative
 :-- | :--  | :-- | :--
 ART |  | ![](SVGs/art.svg) |
 AUTO |  |  | ![](SVGs/wand.svg)
-XXX |  |  | ![](SVGs/backtotop.svg)
+XXX |  | Back to top | ![](SVGs/backtotop.svg)
 CAR | Asset type | ![](SVGs/car.svg) |
 CASH |  | ![](SVGs/cash.svg) |
 CLEAR |  | ![](SVGs/brush.svg) | ![](SVGs/clean2.svg) ![](SVGs/clean.svg)
