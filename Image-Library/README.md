@@ -80,7 +80,7 @@ LED_RED | | ![](SVGs/led-red.svg) |
 LED_YELLOW | | ![](SVGs/led-amber.svg) |
 LOSS | | ![](SVGs/loss.svg) |
 OTHER | | ![](SVGs/grid.svg) |![](SVGs/other2.svg)
-PROFIT | | ![](SVGs/profit.svg) | 
+PROFIT | | ![](SVGs/profit.svg) | ![](SVGs/stocks.svg)
 PROPERTY | | ![](SVGs/property.svg) |
 RECONCILED | | ![](SVGs/check.svg) | 
 RIGHTARROW | | |  ![](SVGs/filter_active.svg)
