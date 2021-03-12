@@ -97,7 +97,7 @@ RUN |  | ![](SVGs/play.svg) |
 SAVE | | ![](SVGs/save.svg) |
 TRXNUM | | ![](SVGs/next.svg) |
 UPARROW | | ![](SVGs/arrow-up.svg) |  ![](SVGs/up-arrow.svg) ![](SVGs/up-arrow2.svg) ![](SVGs/up-arrow3.svg) ![](SVGs/up-arrow4.svg) 
-WEB | www | ![](SVGs/currates.svg)  |
+WEB | www | ![](SVGs/web.svg)  |
 
 ## Menus
 (Deprecated)
