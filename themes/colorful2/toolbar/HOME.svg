@@ -14,7 +14,7 @@
    viewBox="0 0 502 502"
    style="enable-background:new 0 0 502 502;"
    xml:space="preserve"
-   sodipodi:docname="home-svgrepo-com.svg"
+   sodipodi:docname="HOME.svg"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"><metadata
    id="metadata945"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
@@ -23,6 +23,9 @@
 	
 	
 	
+
+		
+		
 </defs><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -32,36 +35,35 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1779"
+   inkscape:window-width="2020"
    inkscape:window-height="1175"
    id="namedview941"
    showgrid="false"
    inkscape:zoom="2.0079681"
    inkscape:cx="251"
-   inkscape:cy="251"
+   inkscape:cy="330.68254"
    inkscape:window-x="1029"
    inkscape:window-y="103"
    inkscape:window-maximized="0"
-   inkscape:current-layer="Layer_1" />
+   inkscape:current-layer="Layer_1"
+   inkscape:document-rotation="0" />
 <polygon
    style="fill:#ffc10d;fill-opacity:1"
    points="447.986,206.987 54.013,206.987 250.999,10 "
    id="polygon890" />
-<g id="g896"
-   style="stroke:none;stroke-opacity:1;fill:#c7ebff;fill-opacity:1">
-		<polygon
-   style="fill:#c7ebff;stroke:none;stroke-opacity:1;fill-opacity:1"
-   points="206.293,492 206.293,346.582 295.706,346.582 295.706,492 415.27,492 415.27,206.987 86.728,206.987 86.728,492 "
-   id="polygon892" />
-		<rect
+<polygon
+   style="fill:#c7ebff;fill-opacity:1;stroke:none;stroke-opacity:1"
+   points="295.706,346.582 295.706,492 415.27,492 415.27,206.987 86.728,206.987 86.728,492 206.293,492 206.293,346.582 "
+   id="polygon892" /><rect
    x="206.293"
    y="346.582"
-   style="fill:#c7ebff;stroke:none;stroke-opacity:1;fill-opacity:1"
+   style="fill:#ffc10d;fill-opacity:1;stroke:none;stroke-opacity:1"
    width="89.413002"
    height="145.418"
    id="rect894" />
-</g>
-<g  style="fill:#194F82;" id="g906">
+<g
+   style="fill:#194F82;"
+   id="g906">
 		<path
    d="M 455.057,199.915 258.07,2.929 c -3.905,-3.905 -10.237,-3.905 -14.143,0 L 46.942,199.915 c -2.86,2.86 -3.715,7.161 -2.167,10.898 1.548,3.737 5.194,6.173 9.239,6.173 H 76.729 V 492 c 0,5.523 4.477,10 10,10 h 119.564 89.413 119.564 c 5.523,0 10,-4.477 10,-10 V 216.987 h 22.715 c 4.044,0 7.691,-2.437 9.239,-6.173 1.548,-3.736 0.693,-8.038 -2.167,-10.899 z M 250.999,24.142 423.843,196.986 H 78.155 Z M 216.293,482 V 356.582 h 69.413 V 482 Z m 188.977,0 H 305.706 V 346.582 c 0,-5.523 -4.477,-10 -10,-10 h -89.413 c -5.523,0 -10,4.477 -10,10 V 482 H 96.728 V 216.987 H 405.27 Z"
    id="path898" />
