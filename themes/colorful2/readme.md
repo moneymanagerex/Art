@@ -2,10 +2,6 @@
 
 Image sources https://www.svgrepo.com/
 
-https://www.svgrepo.com/collection/ecommerce-21/
-https://www.svgrepo.com/collection/finance-and-payments/
-
-
 ## Account icons 
 
 enum | x16 | x24 | x32 | x48
