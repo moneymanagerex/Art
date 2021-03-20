@@ -2,12 +2,10 @@
   <path
      opacity="0.15"
      d="m 11.263158,17.833795 v -12 l 9,6 z"
-     fill="#006633"
-     id="path824" />
+     fill="#194f82" />
   <path
      d="m 11.263158,13.633795 -7.0000001,4.2 v -12 l 7.0000001,4.2 m 0,7.8 v -12 l 9,6 z"
-     stroke="#006633"
+     stroke="#194f82"
      stroke-width="1.5"
-     stroke-linejoin="round"
-     id="path826" />
+     stroke-linejoin="round" />
 </svg>
