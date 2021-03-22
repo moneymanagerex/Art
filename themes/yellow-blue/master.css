@@ -701,7 +701,7 @@ th {
   vertical-align: bottom;
   border-top: 2px solid #dddddd!important;
   border-bottom: 2px solid #dddddd!important;
-  background-color: #d9e8e1;
+  background-color: #8FC6ED;
 }
 
 .table > caption + thead > tr:first-child > th,
@@ -797,7 +797,7 @@ table th[class*="col-"] {
 .table > thead > .success > th,
 .table > tbody > .success > th,
 .table > tfoot > .success > th {
-  background-color: #dff0d8;
+  background-color: #EDD577;
 }
 
 .table-hover > tbody > tr > .success:hover,
@@ -833,7 +833,7 @@ table th[class*="col-"] {
 .table > thead > .warning > th,
 .table > tbody > .warning > th,
 .table > tfoot > .warning > th {
-  background-color: #fcf8e3;
+  background-color: #EDED77;
 }
 
 .table-hover > tbody > tr > .warning:hover,
@@ -851,7 +851,7 @@ table th[class*="col-"] {
 .table > thead > .total > th,
 .table > tbody > .total > th,
 .table > tfoot > .total > th {
-  background-color: #fcf8e3!important;
+  background-color: #EDC78E!important;
   font-weight: bold;
 }
 
@@ -981,17 +981,18 @@ a.badge:focus {
     margin: 10px;
     overflow: auto;
     height: 100%;
-    border: 1px solid #4682b4;
+    border: 2px solid rgba(25, 79, 130,0.5);
 }
 
 .shadowTitle {
     box-shadow: 5px 5px 15px rgba(0,0,0,0.5); /* shadow parameters */
     padding: 10px;
     margin: 10px;
-    background: linear-gradient(to right, #b7cbe4 10%, #d8e1f0 90% );
+    background: linear-gradient(to right, #badef6 10%, #d7eaf9 90% );
     display: flex;
     align-items: stretch;
     flex-wrap: wrap;
+    border: 2px solid rgba(25, 79, 130,0.5);
 }
 
 .shadow:hover,
